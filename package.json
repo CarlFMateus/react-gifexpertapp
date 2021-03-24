@@ -1,6 +1,7 @@
 {
   "name": "gif-expert-app",
   "version": "0.1.0",
+  "description": "Haciendo un pequeño proyecto implementando hooks consumiendo servicio de gifs y implementando animate.css",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
